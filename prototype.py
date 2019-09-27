@@ -2,11 +2,6 @@
 A prototype of FRC team 1817 scouting
 ranking system
 
-"It's tired, I'm late"~Gage 1/19/18 11:21PM
-"There's a universe where I'm in my bed sleeping"
-"Turns out that all Gages are in the same plane"
-"There's like 3 Gages that aren't insane"
-
 Convention:
 o=offensive
 d=defensive
